@@ -1,0 +1,6 @@
+echo "Branch pulled down and run locally - nice one!"
+echo "Your task:"
+echo "Add a new file to this repo called Answer.txt"
+echo "The contents of the file should be the answer to this killer question" 
+echo "2 + 2 = ?"
+echo "Now commit your changes and push Answer.txt up to the remote repo."
